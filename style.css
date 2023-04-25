@@ -1,0 +1,8 @@
+body{
+    background-image:linear-gradient(to right, white, red, black);
+}
+
+#image{
+    width: 900px;
+    height: 600px;
+}
